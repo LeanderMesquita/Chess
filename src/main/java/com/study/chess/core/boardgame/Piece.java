@@ -1,4 +1,4 @@
-package com.study.chess.core.entity;
+package com.study.chess.core.boardgame;
 
 public class Piece {
 
