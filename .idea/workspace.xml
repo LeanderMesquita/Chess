@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bd462819-8bd8-445e-9032-112a6272af88" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chess/core/boardgame/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/chess/core/boardgame/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chess/ChessApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/chess/ChessApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chess/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/chess/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chess/core/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/chess/core/chess/ChessMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chess/core/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/chess/core/chess/ChessPiece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chess/core/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/chess/core/chess/pieces/King.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chess/core/chess/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/chess/core/chess/pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
